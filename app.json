@@ -7,19 +7,19 @@
     "success_url": "/",
     
  "env": {
-    "BOT_NAME": {
+    "BOT_NAME": {dark knight
     "description": "Name of your bot"
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {sisal Tilshan
     "description": "Name of Bot Owner"
     },
-    "BOT_OWNER": {
+    "BOT_OWNER": {+94740249044
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")"
     },
-    "MONGODB_URI": {
+    "MONGODB_URI": {mongodb+srv://Darkknght:9VBBh5dcvlUGnuL2@cluster0.3iol4.mongodb.net/
       "description": "A secret String for Mongodb Connection.(Required)"
     },
-    "SPACK_NAME": {
+    "SPACK_NAME": {Tilshan
       "description": "Put Your Sticker Pack Name",
        "required": false
       
